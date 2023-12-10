@@ -1,5 +1,5 @@
-apple
-mango
+apple_git_1
+mango_git_1
 grape
 pineapple
 cherry
