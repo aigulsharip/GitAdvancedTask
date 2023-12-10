@@ -1,7 +1,7 @@
 apple_git_1
 mango_git_1
-grape
-pineapple
+grape_changed line from git1 branch of folder1
+pineapple_changed line from git1 branch of folder1
 cherry
 banana
 peach
