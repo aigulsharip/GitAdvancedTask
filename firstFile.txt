@@ -1,5 +1,5 @@
-apple_git_1
-mango_git_1
+apple_change_line_from folder2
+mango_changed line from folder 2
 grape
 pineapple
 cherry
