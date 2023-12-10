@@ -1,10 +1,10 @@
-apple
-mango
+apple_git_1
+mango_git_1
 grape
 pineapple
 cherry
 banana
 peach
 limon
-dragon fruit
-fig
+dragon fruit_git_1_step8
+fig_git_1_step8
