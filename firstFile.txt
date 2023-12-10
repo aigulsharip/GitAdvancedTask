@@ -2,6 +2,10 @@ apple_git_1
 mango_git_1
 grape_changed line from git1 branch of folder1
 pineapple_changed line from git1 branch of folder1
+apple_change_line_from folder2
+mango_changed line from folder 2
+grape
+pineapple
 cherry
 banana
 peach
